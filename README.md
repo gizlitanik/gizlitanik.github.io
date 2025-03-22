@@ -121,7 +121,7 @@
   
   <!-- Main container -->
   <div class="container">
-    <input type="text" id="searchBox" placeholder="Search for a company...">
+    <input type="text" id="searchBox" placeholder="Ara...">
     <div id="partners">
       <!-- Company cards will be rendered here -->
     </div>
